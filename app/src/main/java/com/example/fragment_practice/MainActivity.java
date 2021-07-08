@@ -22,6 +22,9 @@ public class MainActivity extends AppCompatActivity {
     //하던거3
     //https://everybody-yeah.tistory.com/6
 
+    //참고 링크
+    //https://blue-ilike.tistory.com/entry/Android-Studio-%EB%B0%94%ED%85%80-%EB%84%A4%EB%B9%84%EA%B2%8C%EC%9D%B4%EC%85%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-Bottom-Navigation
+
 
     private BottomNavigationView mBottomNavigationView;
 
